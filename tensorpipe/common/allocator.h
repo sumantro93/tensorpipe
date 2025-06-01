@@ -13,6 +13,8 @@
 #include <functional>
 #include <memory>
 #include <vector>
+#include <cstdint>
+
 
 #include <tensorpipe/common/error.h>
 
